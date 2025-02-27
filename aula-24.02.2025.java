@@ -1,4 +1,4 @@
-/* Tarefa 1– copie e execute no programiz ou vscode o programa.*/
+/*Prof Chen- Tarefa 1– copie e execute no programiz ou vscode o programa.*/
 
 import java.util.Random;
 public class RandomNumbers {
