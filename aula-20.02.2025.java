@@ -1,5 +1,4 @@
-
-/*Exercício 1*/
+/*Prof Jefferson - Exercício 1*/
 package Aula2002;
 
 public class exe {
