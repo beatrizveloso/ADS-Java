@@ -1,5 +1,4 @@
 /*Exemplo A*/
-
 package Aula2003;
 import java.util.Scanner;
 public class ExemploA {
