@@ -34,7 +34,7 @@ public class Exer1 {
 
 package Aula2702;
 import java.util.Scanner;
-public class RestoDivisao {
+public class Exer2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite o primeiro número: ");
@@ -45,6 +45,7 @@ public class RestoDivisao {
         System.out.println("O resto da divisão inteira de " + num1 + " por " + num2 + " é: " + resto);
     }
 }
+
 
 /*Exercício 3 - Faça um algoritmo que leia um valor representando o gasto realizado por um cliente do restaurante ComaBem e visualize o valor total a ser pago, 
 considerando os 10% do garçom.*/
