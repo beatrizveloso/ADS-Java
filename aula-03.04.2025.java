@@ -30,7 +30,6 @@ public class exemplo {
             }
         }
     }
-}
 
 /*1) Faça um algoritmo que imprima os números pares entre 0 e 100*/
 public class exer1 {
