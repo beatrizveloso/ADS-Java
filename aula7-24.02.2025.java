@@ -1,6 +1,6 @@
 /*Aula Jefferson - 24.04*/
 
-/*1) Foi feita uma pesquisa entre 20 habitantes de uma região. Foram coletados os dados de idade,
+/*1) Foi feita uma pesquisa entre 5 habitantes de uma região. Foram coletados os dados de idade,
 sexo (M/F) e salário. Faça um algoritmo que informe:
 a) a média de idade do grupo;
 b) a média de salários dos homens;
@@ -17,7 +17,7 @@ public class exer1 {
         int quantidadeHomens = 0;
         int mulheresSalarioBaixo = 0;
 
-        for (int i = 1; i <= 20; i++) {
+        for (int i = 1; i <= 5; i++) {
             System.out.println("Pessoa " + i + ":");
             
             System.out.print("Idade: ");
